@@ -7,6 +7,7 @@ Supported connections
 ---------------------
 The SONiC Ansible collection supports network_cli and httpapi connections.
 
+
 Plugins
 --------
 **CLICONF plugin**
